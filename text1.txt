@@ -2,3 +2,10 @@ This is first text file...:(
 
 Updated
 
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEBq3B8ZPdLywP/5uqIAb5n6arzIi+W3CMP256onHnyn yusufkhan.ibirdscollege@gmail.com
+Updated Again :)
+
+
+i
+/usr/bin/bash: wq: command not found
+
